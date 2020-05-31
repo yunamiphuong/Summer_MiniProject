@@ -1,5 +1,7 @@
 # Summer_MiniProject
-Vie & Eng Description
+Vie & Eng Descriptions Below
+ScreenShotSummer.png
+
 /Vie
 Mobile App dắt thú cưng đi dạo biển mùa hè. Bạn có thể chọn 1 thú cưng trong danh sách, hoặc random 1 thú cưng, rồi dắt đi dạo ở biên mùa hè
 Nếu thời gian mở app là ban ngày (sau 12h trưa và trước 18h chiều) thì hình nền sẽ là ban ngày, ngược lại hình nền sẽ là biển đêm
@@ -23,3 +25,4 @@ This app uses:
  - Pass Data Closure
  - Struct
  - switch View Controller
+
