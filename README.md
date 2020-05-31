@@ -1,6 +1,10 @@
 # Summer_MiniProject
 Vie & Eng Descriptions Below
-ScreenShotSummer.png
+
+![Screenshot](ScreenShotSummer.png)
+![Screenshot](ScreenShotSummer2.png)
+![Screenshot](ScreenShotSummer3.png)
+![Screenshot](ScreenShotSummer4.png)
 
 /Vie
 Mobile App dắt thú cưng đi dạo biển mùa hè. Bạn có thể chọn 1 thú cưng trong danh sách, hoặc random 1 thú cưng, rồi dắt đi dạo ở biên mùa hè
